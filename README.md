@@ -1,4 +1,4 @@
-# Backgorund Generator <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/> 
+# Background Generator <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="40" height="40"/> 
 Simple background CSS generator
 
 ### 🚀 Technologies
